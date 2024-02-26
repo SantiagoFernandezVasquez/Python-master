@@ -6,5 +6,5 @@ def factorial(numero):
     
 numero = int(input("Escribe el numero: "))
 resultado = factorial (numero)
-print ("El factorial de", numero,"es ", resultado)
+print ("El factorial de", numero,"es ",resultado)
     
